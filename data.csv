@@ -1,5 +1,5 @@
 title;description;url;image;download
-Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://pythonhow.com;portfolio.png;not available
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://ishikasethi-portfolio-website-home-5irn1o.streamlit.app/;portfolio.png;not available
 Compress/Extract files; A simple application to compress and extract the files and save them at the desired location.;not available;zip.png;file_compressor.zip
 Weather API;A REST API built with Python to serve historical weather data for various cities.;https://ishikasethi-weather-forecast-app-weather-forecast-ms6yn6.streamlit.app/;weather.png;not available
 Todo List Manager;A distraction-free web app to help you focus on creating and completing tasks. This app is available in both format: web app as well as a downloadable exe file.;https://ishikasethi-todo-list-app-web-xkdr2c.streamlit.app/;todos.png;todo-list-manager.zip
