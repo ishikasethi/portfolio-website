@@ -1,0 +1,12 @@
+title;description;url;image;download
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://pythonhow.com;portfolio.png;not available
+Compress/Extract files; A simple application to compress and extract the files and save them at the desired location.;not available;zip.png;file_compressor.zip
+Weather API;A REST API built with Python to serve historical weather data for various cities.;https://ishikasethi-weather-forecast-app-weather-forecast-ms6yn6.streamlit.app/;weather.png;not available
+Todo List Manager;A distraction-free web app to help you focus on creating and completing tasks. This app is available in both format: web app as well as a downloadable exe file.;https://ishikasethi-todo-list-app-web-xkdr2c.streamlit.app/;todos.png;todo-list-manager.zip
+Password Strength Identifier;An App built with Python to identify the strength of password.;https://ishikasethi-password-strength-checker-check-password-bkshy4.streamlit.app/;password.png;not available
+Convert image into GrayScale images;A small app built with Python to convert images into gray scale images.;https://ishikasethi-convert-image-into-grayscale-i-convert-image-bt10dz.streamlit.app/;image.png;not available
+Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;not available;11.png;not available
+Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;not available;8.png;not available
+PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;not available;3.png;not available
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;not available;4.png;not available
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;not available;16.png;not available
