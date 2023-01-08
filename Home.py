@@ -40,7 +40,7 @@ with col3:
             continue
         else:
             st.write("This is a downloadable .exe file of this app.")
-            with open(f"../portfolio-app/exe_files/{row['download']}", "rb") as fp:
+            with open(f"exe_files/{row['download']}", "rb") as fp:
                 btn = st.download_button(
                     label="Download Application",
                     data=fp,
@@ -58,7 +58,7 @@ with col4:
             continue
         else:
             st.write("This is a downloadable .exe file of this app.")
-            with open(f"../portfolio-app/exe_files/{row['download']}", "rb") as fp:
+            with open(f"exe_files/{row['download']}", "rb") as fp:
                 btn = st.download_button(
                     label="Download Application",
                     data=fp,
